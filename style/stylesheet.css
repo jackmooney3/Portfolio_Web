@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+#main-container {
+    background-color: #00676b;
+    width: 2000px;
+    height: 3000px;
+    border: solid 1px black;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#Header {
+    background-color: #030096;
+    width: 100%;
+    height: 500px;
+}
