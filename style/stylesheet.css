@@ -59,3 +59,12 @@ p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
 }
+
+#photo-editing-image {
+    width: 1000px;
+    /* Real image will fit to targeted size than this */
+}
+
+#photography-image {
+    width: 1000px;
+}
