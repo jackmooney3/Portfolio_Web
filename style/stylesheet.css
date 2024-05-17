@@ -16,10 +16,11 @@ body {
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 80px;
+    margin-top: 130px;
+    margin-bottom: 15px;
 }
 
 nav {
-    display: flex;
     flex-direction: row;
     justify-content: space-evenly;
 }
@@ -58,13 +59,15 @@ a {
 p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
+    margin-top: 50px;
 }
 
 #photo-editing-image {
     width: 1000px;
-    /* Real image will fit to targeted size than this */
+    margin-bottom: 20px;
 }
 
 #photography-image {
     width: 1000px;
+    margin-bottom: 20px;
 }
